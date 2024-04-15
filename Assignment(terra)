@@ -98,8 +98,8 @@ terraform apply
 
 ----------provider.tf-----
 provider "aws" {
-   access_key = "AKIAWBH4OKIN4EMSQCP7"
-   secret_key = "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"
+   access_key = ""
+   secret_key = ""
    # region = "us-east-2"
    region = "us-east-2" # Ohio (us-east-2) region
    alias  = "ohio"     # Alias for Ohio
